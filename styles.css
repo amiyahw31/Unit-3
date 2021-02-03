@@ -1,0 +1,35 @@
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: #C6436F;
+}
+
+ul {
+    color: #7439CD;
+}
+h3{
+    color: #0C40F1;
+}
+
+
+.Personality {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+body {
+
+    background-image: url('https://i.pinimg.com/564x/c1/92/1d/c1921dd9f73833e5a16dcd9ed0417e72.jpg');
+
+
+
+}
+
+
+img{
+    width: 150px; 
+    display: block;
+}
